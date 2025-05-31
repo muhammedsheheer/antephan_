@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Cacke: React.FC = () => {
   return (
-    <section className="relative h-full w-full bg-[#f7f4ed] px-4 md:px-20 2xl:px-40">
+    <section className="relative h-full w-full bg-[#f7f4ed] px-3 md:px-20 2xl:px-40">
       {/* <div className="absolute left-1 right-1 top-32 z-0 md:left-4 md:right-4 md:top-40">
         <h1 className="text-center font-oswald text-7xl font-[400] uppercase tracking-[3px] text-[#079EBC] md:text-[150px] md:tracking-[10px]">
           Antephan
