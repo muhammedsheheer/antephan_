@@ -51,7 +51,7 @@ const Follow: React.FC = () => {
             {images.map((image, index) => (
               <div
                 key={index}
-                className="w-[100%] flex-shrink-0 rounded-2xl border border-white bg-white p-8 md:w-[33%] md:rounded-3xl md:p-12"
+                className="w-[100%] flex-shrink-0 rounded-2xl border border-[#f7f4ed] bg-[#f7f4ed] p-8 md:w-[33%] md:rounded-3xl md:p-12"
               >
                 <Image
                   src={image}

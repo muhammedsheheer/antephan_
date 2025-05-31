@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const Antephan: React.FC = () => {
   return (
-    <section className="relative h-full w-full bg-[#fff] px-4 py-8 md:px-20 md:py-12">
+    <section className="relative h-full w-full bg-[#f7f4ed] px-4 py-8 md:px-20 md:py-12">
       <div className="absolute -top-72 right-0 z-50 hidden md:block">
         <Image
           src={"/images/home/antephan/bga.png"}

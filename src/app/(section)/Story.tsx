@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const Story: React.FC = () => {
   return (
-    <section className="relative h-full w-full bg-[#fff] px-4 pb-8 pt-4 md:px-20 md:pb-60 md:pt-10">
+    <section className="relative h-full w-full bg-[#f7f4ed] px-4 pb-8 pt-4 md:px-20 md:pb-60 md:pt-10">
       <div className="lines z-0">
         <div className="line"></div>
         <div className="line"></div>

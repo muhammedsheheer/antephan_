@@ -13,7 +13,7 @@ const Reserve: React.FC = () => {
         <div className="line"></div>
       </div>
       <motion.div
-        className="ml-6 flex h-full w-[80%] flex-col gap-5 bg-[#fff] px-4 py-8 md:ml-[10%] md:w-[30%] md:gap-8 md:py-12"
+        className="ml-6 flex h-full w-[80%] flex-col gap-5 bg-[#f7f4ed] px-4 py-8 md:ml-[10%] md:w-[30%] md:gap-8 md:py-12"
         initial={{ opacity: 0, x: -100 }}
         whileInView={{ opacity: 1, x: 0 }}
         viewport={{ once: false }}

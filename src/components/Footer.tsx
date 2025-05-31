@@ -6,7 +6,7 @@ import { FaTiktok } from "react-icons/fa";
 
 const Footer = ({}) => {
   return (
-    <footer className="h-full w-full bg-[#fff] px-4 pt-12 md:px-20 md:pt-20">
+    <footer className="h-full w-full bg-[#f7f4ed] px-4 pt-12 md:px-20 md:pt-20">
       {/*big screen */}
       <div className="hidden flex-col items-center justify-center gap-8 md:flex">
         <div className="md:ml-[3%] md:pb-10">

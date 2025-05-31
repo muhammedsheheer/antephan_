@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Gallery = () => {
   return (
-    <section className="h-full w-full bg-[#fff] px-3 py-8 md:px-10">
+    <section className="h-full w-full bg-[#f7f4ed] px-3 py-8 md:px-10">
       <div className="flex items-center justify-center pb-2">
         <h1 className="text-center font-oswald text-7xl font-[400] uppercase tracking-[3px] text-[#079EBC] md:text-[150px] md:tracking-[10px]">
           archives

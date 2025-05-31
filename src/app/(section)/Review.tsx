@@ -27,7 +27,7 @@ const Reviews = () => {
   };
 
   return (
-    <section className="relative flex h-full w-full justify-center bg-[#fff] pb-10">
+    <section className="relative flex h-full w-full justify-center bg-[#f7f4ed] pb-10">
       <div className="absolute inset-0 z-0 flex items-center justify-center">
         <Image
           src={"/images/home/review/bgr.png"}
