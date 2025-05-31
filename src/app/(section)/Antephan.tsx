@@ -47,7 +47,7 @@ const Antephan: React.FC = () => {
         </div>
         <div className="grid h-full w-full grid-cols-2 gap-8 pt-8 md:grid-cols-4 md:gap-12 md:pt-0">
           <motion.img
-            src={"/images/home/antephan/1.png"}
+            src={"/images/home/antephan/1.jpg"}
             width={281}
             height={74}
             alt="image1"
@@ -58,7 +58,7 @@ const Antephan: React.FC = () => {
             className="z-0 h-[220px] w-full rounded-full object-cover md:h-[650px]"
           />
           <motion.img
-            src={"/images/home/antephan/2.png"}
+            src={"/images/home/antephan/2.jpg"}
             width={281}
             height={74}
             alt="image2"
@@ -69,7 +69,7 @@ const Antephan: React.FC = () => {
             className="z-0 h-[220px] w-full rounded-full object-cover md:h-[650px]"
           />
           <motion.img
-            src={"/images/home/antephan/3.png"}
+            src={"/images/home/antephan/3.jpg"}
             width={281}
             height={74}
             alt="image3"

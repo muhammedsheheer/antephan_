@@ -42,7 +42,7 @@ const Gallery = () => {
         <div className="flex w-full flex-col gap-2 md:w-[40%] md:gap-6">
           <div className="border border-[#D3A641] p-2">
             <motion.img
-              src={"/images/home/gallery/3.png"}
+              src={"/images/home/gallery/3.jpg"}
               width={281}
               height={74}
               alt="image"
@@ -55,7 +55,7 @@ const Gallery = () => {
           </div>
           <div className="border border-[#D3A641] p-2">
             <motion.img
-              src={"/images/home/gallery/4.png"}
+              src={"/images/home/gallery/4.jpg"}
               width={281}
               height={74}
               alt="image"
@@ -70,7 +70,7 @@ const Gallery = () => {
         <div className="flex w-full flex-col gap-2 md:w-[30%] md:gap-6">
           <div className="border border-[#D3A641] p-2">
             <motion.img
-              src={"/images/home/gallery/5.png"}
+              src={"/images/home/gallery/5.jpg"}
               width={281}
               height={74}
               alt="image"
@@ -83,7 +83,7 @@ const Gallery = () => {
           </div>
           <div className="border border-[#D3A641] p-2">
             <motion.img
-              src={"/images/home/gallery/6.png"}
+              src={"/images/home/gallery/6.jpg"}
               width={281}
               height={74}
               alt="image"
@@ -127,7 +127,7 @@ const Gallery = () => {
           </div>
           <div className="border border-[#D3A641] p-2">
             <motion.img
-              src={"/images/home/gallery/3.png"}
+              src={"/images/home/gallery/3.jpg"}
               width={281}
               height={74}
               alt="image"
@@ -143,7 +143,7 @@ const Gallery = () => {
         <div className="flex w-full flex-col gap-2 md:w-[30%] md:gap-6">
           <div className="border border-[#D3A641] p-2">
             <motion.img
-              src={"/images/home/gallery/4.png"}
+              src={"/images/home/gallery/4.jpg"}
               width={281}
               height={74}
               alt="image"
@@ -156,7 +156,7 @@ const Gallery = () => {
           </div>
           <div className="border border-[#D3A641] p-2">
             <motion.img
-              src={"/images/home/gallery/5.png"}
+              src={"/images/home/gallery/5.jpg"}
               width={281}
               height={74}
               alt="image"
@@ -169,7 +169,7 @@ const Gallery = () => {
           </div>
           <div className="border border-[#D3A641] p-2">
             <motion.img
-              src={"/images/home/gallery/6.png"}
+              src={"/images/home/gallery/6.jpg"}
               width={281}
               height={74}
               alt="image"

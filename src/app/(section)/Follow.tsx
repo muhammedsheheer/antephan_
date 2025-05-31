@@ -4,12 +4,12 @@ import React, { useRef } from "react";
 import { motion } from "framer-motion";
 
 const images = [
-  "/images/home/follow/1.png",
-  "/images/home/follow/2.png",
+  "/images/home/follow/1.jpg",
+  "/images/home/follow/2.jpg",
   "/images/home/follow/3.jpg",
-  "/images/home/follow/4.png",
-  "/images/home/follow/5.png",
-  "/images/home/follow/6.png",
+  "/images/home/follow/4.jpg",
+  "/images/home/follow/5.jpg",
+  "/images/home/follow/6.jpg",
 ];
 
 const Follow: React.FC = () => {
