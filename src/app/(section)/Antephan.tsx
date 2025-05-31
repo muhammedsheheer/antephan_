@@ -7,13 +7,13 @@ import Image from "next/image";
 const Antephan: React.FC = () => {
   return (
     <section className="relative h-full w-full bg-[#f7f4ed] px-4 py-8 md:px-20 md:py-12">
-      <div className="absolute -top-72 right-0 z-50 hidden md:block">
+      <div className="absolute -top-40 right-0 z-50 md:-top-72">
         <Image
           src={"/images/home/antephan/bga.png"}
           width={281}
           height={74}
           alt="image1"
-          className="z-50 h-[600px] w-full"
+          className="z-50 h-[200px] w-full md:h-[600px]"
         />
       </div>
       <div className="ga flex flex-col md:gap-16">
