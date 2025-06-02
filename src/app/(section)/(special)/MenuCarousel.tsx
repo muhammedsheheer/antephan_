@@ -171,10 +171,10 @@ const EmblaCarousel: React.FC<PropType> = (props) => {
               disabled={nextBtnDisabled}
             />
           </div>
-          <p className="flex items-center font-playfair text-3xl">
+          {/* <p className="flex items-center font-playfair text-3xl">
             <span className="text-primary">{selectedIndex + 1}</span>/{" "}
             {scrollSnaps.length}
-          </p>
+          </p> */}
         </div>
       </div>
       <div className="absolute left-0 top-0 z-10 flex h-full w-full justify-center">
