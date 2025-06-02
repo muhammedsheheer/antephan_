@@ -16,7 +16,7 @@ const Special = ({}) => {
         <div className="line"></div>
       </div>
       <div className="pointer-events-none absolute left-0 top-0 h-full w-full overflow-hidden"></div>
-      <div className="flex h-full w-full max-w-[1300px] flex-col items-center justify-center gap-4 py-12">
+      <div className="z-40 flex h-full w-full max-w-[1300px] flex-col items-center justify-center gap-4 py-12">
         <div className="flex w-full flex-col items-center justify-center gap-3 md:flex-row">
           <div className="flex flex-col items-center justify-center gap-2">
             <div className="flex flex-col items-center justify-center gap-2">

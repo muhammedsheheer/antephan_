@@ -18,11 +18,11 @@ export default function HomePage() {
       <div className="flex h-full w-full flex-col items-center justify-center">
         <Navbar position="absolute" />
         <Hero />
+        <Cacke />
         <Special />
         <Menu />
         <Antephan />
         <Reserve />
-        <Cacke />
         <Gallery />
         <Reviews />
         <Story />

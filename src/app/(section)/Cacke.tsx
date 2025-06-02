@@ -5,7 +5,7 @@ import Image from "next/image";
 const Cacke: React.FC = () => {
   return (
     <section className="relative h-full w-full bg-[#f7f4ed] px-3 md:px-40 2xl:px-72">
-      <div className="absolute -right-4 -top-36 z-50 md:-top-72 md:right-0">
+      <div className="absolute -bottom-36 -right-4 z-30 md:-bottom-72 md:right-0">
         <Image
           src={"/images/home/antephan/bgc.png"}
           width={281}
